@@ -32,6 +32,7 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 - **👤 Character Consistency**: Maintain the appearance of characters or objects across multiple prompts and edits
 - **✏️ Prompt-based Image Editing**: Enable targeted transformation and precise local edits with natural language
 - **🔄 Multi-image Fusion**: Understand and merge multiple input images
+* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate, plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
 
 ### ⚙️ Technical Specifications
 
